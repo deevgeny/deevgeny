@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evgeny Deriglazov @evgeny81d.
 - 👀 I’m interested in data engineering and full stack development.
-- 🌱 I’m currently enrolled in IBM Data Engineering Professional Certificate course at Coursera.
+- 🌱 I’m currently working on seacargos project <!--enrolled in IBM Data Engineering Professional Certificate course at Coursera.-->
 - 💞️ I’m looking to collaborate on data engineering project.
 - 📫 How to reach me evgenyderiglazov@gmail.com
 

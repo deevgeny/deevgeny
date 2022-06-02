@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development, data engineering (and a little bit of AI and machine learning).
 - 🌱 I’m currently enrolled in Yandex.Practicum 'Python backend developer' course.
 - 💞️ I’m looking to collaborate on data engineering or full stack development project.
-- 📫 How to reach me: evgenyderiglazov@gmail.com (or evgenyderiglazov@yandex.ru).
+- 📫 How to reach me: or evgenyderiglazov@yandex.ru
 
 <!---
 evgeny81d/evgeny81d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

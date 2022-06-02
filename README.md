@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Evgeny Deriglazov @evgeny81d.
-- 👀 I’m interested in data engineering and full stack development (and a little bit of AI and machine learning).
+- 👀 I’m interested in backend development, data engineering (and a little bit of AI and machine learning).
 - 🌱 I’m currently enrolled in Yandex.Practicum 'Python backend developer' course.
 - 💞️ I’m looking to collaborate on data engineering or full stack development project.
 - 📫 How to reach me: evgenyderiglazov@gmail.com (or evgenyderiglazov@yandex.ru).

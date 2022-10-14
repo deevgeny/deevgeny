@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Evgeny Deriglazov @evgeny81d.
-- 👀 I’m interested in backend development, data engineering (and a little bit of AI and machine learning).
-- 🌱 I’m currently enrolled in Yandex.Practicum 'Python backend developer' course.
-- 💞️ I’m looking to collaborate on data engineering or full stack development project.
-- 📫 How to reach me: or evgenyderiglazov@yandex.ru
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h3>
+    hey there 
+    
+  </h3>
+</div>
+
+---
+### About me:
+I’m a Python Backend Developer
 
 <!---
 evgeny81d/evgeny81d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

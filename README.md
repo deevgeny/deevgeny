@@ -10,6 +10,9 @@
 #### About me:
 I’m a Python Backend Developer
 
+#### My pet and study projects:
+- [Object-oriented programming with Python](https://github.com/evgeny81d/hw_python_oop)
+
 #### How to contact me:
 <a href="mailto:evgenyderiglazov@yandex.ru">evgenyderiglazov@yandex.ru</a>
 <!-- * telegram: <a href="https://telegram.me/evgeny_deriglazov">@evgeny_deriglazov</a> -->

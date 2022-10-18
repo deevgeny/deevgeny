@@ -10,9 +10,10 @@
 #### About me:
 I’m a Python Backend Developer
 
-#### My pet and study projects:
-- [Object-oriented programming with Python](https://github.com/evgeny81d/hw_python_oop)
-- [Multi-container web application with Docker](https://github.com/evgeny81d/infra_sp2)
+#### Projects:
+- [Fitness-tracker module](https://github.com/evgeny81d/hw_python_oop)
+- [Web application with API](https://github.com/evgeny81d/api_yamdb)
+- [Multi-container web application](https://github.com/evgeny81d/infra_sp2)
 
 <!-- #### How to contact me:
 <a href="mailto:evgenyderiglazov@yandex.ru">evgenyderiglazov@yandex.ru</a> -->

@@ -12,8 +12,9 @@ I’m a Python Backend Developer
 
 #### Projects:
 - [Fitness-tracker module](https://github.com/evgeny81d/hw_python_oop)
-- [Web application with API](https://github.com/evgeny81d/api_yamdb)
-- [Multi-container web application](https://github.com/evgeny81d/infra_sp2)
+- [Django web application](https://github.com/evgeny81d/hw05_final)
+- [Django web application with API](https://github.com/evgeny81d/api_yamdb)
+- [Django multi-container web application](https://github.com/evgeny81d/infra_sp2)
 
 <!-- #### How to contact me:
 <a href="mailto:evgenyderiglazov@yandex.ru">evgenyderiglazov@yandex.ru</a> -->

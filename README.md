@@ -1,4 +1,6 @@
-## Hi! I'm Evgeny. Python-developer.
+# Hi, I'm Evgeny 👋 
+
+Python developer
 
 Yandex.Practicum graduate
 

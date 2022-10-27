@@ -1,5 +1,5 @@
-## Hi, I'm Evgeny!
+## Hi! I'm Evgeny. Python-developer.
 
-Python-developer - Yandex.Practicum graduate
+Yandex.Practicum graduate
 
 Languages and tools: Python, Django, Django REST Framework, Docker, Docker-compose, Nginx, Linux.

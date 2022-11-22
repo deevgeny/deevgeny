@@ -2,7 +2,7 @@
 
 Python developer
 
-Yandex.Practicum student
+Yandex.Practicum graduate
 
 Languages and tools: Python, Django, Django REST Framework, Docker, Docker-compose, Nginx, Linux.
 

@@ -1,8 +1,9 @@
 # Hi, I'm Evgeny 👋 
 
-Python developer
+Backend developer
 
 Yandex.Practicum graduate
 
-Languages and tools: Python, Django, Django REST Framework, Celery, Docker, Aiogram, JavaScript, Linux.
+Backend: Python, Django, Django REST Framework, Celery, Docker, Aiogram.
+Frontend: JavaScript, React
 

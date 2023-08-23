@@ -4,6 +4,6 @@ Backend developer
 
 Yandex.Practicum graduate
 
-Backend: Python, Django, Django REST Framework, Celery, Docker, Aiogram.
+Backend: Python, Django, Django REST Framework, Celery, Docker, Aiogram.</br>
 Frontend: JavaScript, React
 

@@ -1,9 +1,9 @@
 # Hi, I'm Evgeny 👋 
 
-Backend developer
+Full-stack web developer
 
 Yandex.Practicum graduate
 
-Backend: Python, Django, Django REST Framework, Celery, Docker, Aiogram.</br>
+Backend: Python, Django, Django REST Framework, Celery, Aiogram.</br>
 Frontend: JavaScript, React, React Router, Material UI
 

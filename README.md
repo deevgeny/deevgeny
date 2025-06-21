@@ -3,9 +3,9 @@
 **Full-Stack Developer** | Python 🐍 + React ⚛️ Specialist  
 
 ### 𝙼𝚢 𝚃𝚎𝚌𝚑 𝚃𝚘𝚘𝚕𝚋𝚘𝚡
-▸ **Backend Magic**  
+▸ **Backend**  
    Django • Django REST • FastAPI • Celery • Aiogram  
-▸ **Frontend Artistry**  
+▸ **Frontend**  
    JavaScript/TypeScript • React • Modern CSS  
 
 ### 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐

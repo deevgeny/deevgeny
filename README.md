@@ -4,15 +4,15 @@
 
 ## 🛠️ Tech Stack
 **Backend:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django)  
-![DRF](https://img.shields.io/badge/-Django_REST-ff1709) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
+![DRF](https://img.shields.io/badge/-Django_REST-ff1709)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi)
 
 **Frontend:**  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
 
 ## 🚀 Current Project
 **Successfully launched** a **modular corporate CRM** and currently:

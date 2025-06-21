@@ -1,6 +1,15 @@
-# Hi, I'm Evgeny 👋 
+# 𝙷𝚎𝚢 𝚝𝚑𝚎𝚛𝚎! 𝙸'𝚖 𝙴𝚟𝚐𝚎𝚗𝚢 👨‍💻
 
-Full-stack web developer
+**Full-Stack Developer** | Python 🐍 + React ⚛️ Specialist  
 
-Backend: Python, Django, Django REST Framework, FastAPI, Celery, Aiogram.</br>
-Frontend: JavaScript, TypeScript, React, CSS.
+### 𝙼𝚢 𝚃𝚎𝚌𝚑 𝚃𝚘𝚘𝚕𝚋𝚘𝚡
+▸ **Backend Magic**  
+   Django • Django REST • FastAPI • Celery • Aiogram  
+▸ **Frontend Artistry**  
+   JavaScript/TypeScript • React • Modern CSS  
+
+### 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐
+🚀 Leading development of a **modular corporate CRM** featuring:  
+   • Custom department-specific interfaces  
+   • Scalable Django backend  
+   • Dynamic React frontend  

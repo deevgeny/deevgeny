@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Evgeny
 
-**Full-Stack Developer** | Python + React Specialist
+**Full-Stack Developer**
 
 ## 🛠️ Tech Stack
 **Backend:**  
@@ -17,16 +17,18 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
+**AI**
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white)
+
 ## 🚀 Current Project
-**Successfully launched** a **modular corporate CRM** and currently:
-- Expanding functionality for new departments
+**Successfully launched corporate CRM** and currently:
+- Expanding functionality for new departments and features
 - Optimizing performance
 - Developing additional integration modules
+- Maintaining production environment
 
 **Key Features:**
-- Custom UI per department (React)
-- Robust Django backend
+- React frontend (CSR)
+- Django backend
 - Seamless integration with corporate IT systems
 - Role-based access control system
-
-🔧 **Continuous Development:** Actively implementing new features while maintaining production environment

@@ -20,6 +20,7 @@
 
 **AI:**  
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=white)
 
 ## 🚀 Current Project
 **Successfully launched corporate CRM** and currently:
